@@ -6,7 +6,6 @@ import java.util.Scanner;
 
 public class EmployeePayrollService {
     public enum IOService {CONSOLE_IO, FILE_IO, DB_IO, REST_ID;
-
     }
     private List<EmployeePayrollData> employeePayrollList;
 
